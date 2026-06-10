@@ -159,4 +159,5 @@ spring.application.name=simple-web-server
 
 ### Output:
 
-![alt text](image.png)
+<img width="1014" height="623" alt="image" src="https://github.com/user-attachments/assets/1c769309-b74f-4bce-885d-853637cb70a5" />
+
